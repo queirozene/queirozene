@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/queirozene/queirozene/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/queirozene/queirozene/snake.yml" alt="Snake animation" />
 
 ###
 
