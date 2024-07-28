@@ -44,10 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/queirozene/queirozene/snake.yml" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://i.im.ge/2024/07/28/VJ7H7p.chorisFeitocomoClipchamp-ezgif-com-speed.gif"  />
 </div>
