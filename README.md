@@ -12,7 +12,7 @@
 
 <p align="left">✨ Creating solutions since 2023<br>📚 I'm currently learning skills about Data Engineering and Artificial Inteligence<br>🎯 Goals: Reach the goal and then double the goal</p>
 
-###
+### 
 
 <h2 align="left">I code with</h2>
 
@@ -44,6 +44,10 @@
 
 ###
 
-![APRENDIZADO]([URL-do-GIF](https://github.com/queirozene/queirozene/blob/main/choris.gif?raw=true))
+<h2 align="left">Legend!</h2>
+
+<p align="center">
+  <img src="https://github.com/queirozene/queirozene/blob/main/choris.gif?raw=true" alt="Choris GIF" />
+</p>
 
 ###
