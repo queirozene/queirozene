@@ -44,6 +44,6 @@
 
 ###
 
-![APRENDIZADO]([URL-do-GIF](https://github.com/queirozene/queirozene/raw/main/choris.gif?raw=true))
+![APRENDIZADO]([URL-do-GIF](https://github.com/queirozene/queirozene/blob/main/choris.gif?raw=true))
 
 ###
