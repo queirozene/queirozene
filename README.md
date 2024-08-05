@@ -44,8 +44,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.im.ge/2024/07/28/VJ7H7p.chorisFeitocomoClipchamp-ezgif-com-speed.gif"  />
-</div>
+![APRENDIZADO]([URL-do-GIF](https://github.com/queirozene/queirozene/raw/main/choris.gif?raw=true))
 
 ###
