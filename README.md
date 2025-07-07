@@ -2,19 +2,29 @@
 
 ###
 
-<p align="left">Hello! <br>My name is Gustavo Queiroz Ribeiro I'm a 24-year-old Data Engineer from Brazil with a deep passion for data and technology. I thrive on learning new skills and staying updated with the latest trends in the data engineering field. My goal is to leverage data to drive insightful decision-making and innovation.</p>
+<p align="left">Hello! <br>My name is Gustavo Queiroz Ribeiro, I'm a 24-year-old Data Engineer from Brazil with a deep passion for data and technology. I thrive on learning new skills and staying updated with the latest trends in the data engineering field. My goal is to leverage data to drive insightful decision-making and foster innovation.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">✨ Creating solutions since 2023<br>📚 I'm currently learning skills about Data Engineering and Artificial Inteligence<br>🎯 Goals: Reach the goal and then double the goal</p>
+<h2 align="left">🎓 Education & Learning</h2>
 
-### 
+<p align="left">
+  📚 <strong>Currently pursuing an MBA in Data Engineering</strong> at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a><br>
+  🚀 Focused on deepening skills in:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Big Data Architecture<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Cloud Computing (AWS, GCP)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Data Pipelines & ETL<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Machine Learning & AI Foundations<br>
+  📈 Passionate about continuous learning and applying knowledge to real-world data challenges.
+</p>
 
-<h2 align="left">I code with</h2>
+###
+
+<h2 align="left">I Code With</h2>
 
 ###
 
@@ -27,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -49,5 +59,3 @@
 <p align="center">
   <img src="https://github.com/queirozene/queirozene/blob/main/choris.gif?raw=true" alt="Choris GIF" />
 </p>
-
-###
