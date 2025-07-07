@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! <br>My name is Gustavo Queiroz Ribeiro I'm a 23-year-old Data Engineer from Brazil with a deep passion for data and technology. I thrive on learning new skills and staying updated with the latest trends in the data engineering field. My goal is to leverage data to drive insightful decision-making and innovation.</p>
+<p align="left">Hello! <br>My name is Gustavo Queiroz Ribeiro I'm a 24-year-old Data Engineer from Brazil with a deep passion for data and technology. I thrive on learning new skills and staying updated with the latest trends in the data engineering field. My goal is to leverage data to drive insightful decision-making and innovation.</p>
 
 ###
 
