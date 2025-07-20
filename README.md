@@ -16,7 +16,7 @@
   📚 <strong>Currently pursuing an MBA in Data Engineering</strong> at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a><br>
   🚀 Focused on deepening skills in:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Big Data Architecture<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- Cloud Computing (AWS, GCP)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Cloud Computing (AWS, GCP, AZURE)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Data Pipelines & ETL<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Machine Learning & AI Foundations<br>
   📈 Passionate about continuous learning and applying knowledge to real-world data challenges.
