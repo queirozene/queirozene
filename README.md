@@ -13,7 +13,7 @@
 <h2 align="left">🎓 Education & Learning</h2>
 
 <p align="left">
-  📚 <strong>Currently pursuing an MBA in Data Engineering</strong> at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a><br>
+  📚 <strong>Postgraduate degree in Data Engineering from FIAP.</strong> at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a><br>
   🚀 Focused on deepening skills in:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Big Data Architecture<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Cloud Computing (AWS, GCP, AZURE)<br>
